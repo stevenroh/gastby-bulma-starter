@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+$primary: #0041a1;
+
+$family-sans-serif-title: 'Lexend', sans-serif;
+$family-sans-serif: 'Poppins', sans-serif;
+
+$body-font-size: 1.2em;
+
+@import '~bulma/bulma.sass';
