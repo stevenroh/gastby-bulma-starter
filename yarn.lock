@@ -2538,11 +2538,6 @@ buffer@^5.5.0, buffer@^5.7.0:
     base64-js "^1.3.1"
     ieee754 "^1.1.13"
 
-bulma@0.8.2:
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.8.2.tgz#5d928f16ed4a84549c2873f95c92c38c69c631a7"
-  integrity sha512-vMM/ijYSxX+Sm+nD7Lmc1UgWDy2JcL2nTKqwgEqXuOMU+IGALbXd5MLt/BcjBAPLIx36TtzhzBcSnOP974gcqA==
-
 bulma@^0.9.2:
   version "0.9.2"
   resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.9.2.tgz#340011e119c605f19b8ca886bfea595f1deaf23c"
@@ -8662,12 +8657,11 @@ rc@^1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-bulma-components@^3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/react-bulma-components/-/react-bulma-components-3.4.0.tgz#6a6e4ddbb2564aa8fb59d2b805137238b94d428c"
-  integrity sha512-d8FqFHt6zauD+xKuNwhNaTj4BbPQugREGUrZCAyUpt3431ayCprFaV7Ni3OXo2U158SmJKcBd+ND8JoDJZX8AA==
+react-bulma-components@^4.0.0-RC.8:
+  version "4.0.0-RC.8"
+  resolved "https://registry.yarnpkg.com/react-bulma-components/-/react-bulma-components-4.0.0-RC.8.tgz#d06cec02f9eac9a2c3742f24d8057b90a5c9003f"
+  integrity sha512-u6BHKWFbddgvOEeLYVNBxqcJuYie4iZiHRq+/EHvGhr8NPOE8xeeSOw1puW7ullE4B9eQAwbDnLK6kZ32cn4/A==
   dependencies:
-    bulma "0.8.2"
     classnames "2.2.6"
 
 react-dev-utils@^11.0.3:
